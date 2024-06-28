@@ -54,7 +54,7 @@
 
 First create a `model.py` file.
 
-```
+```python
 print('Hello Markdown')
 for i in range(100):
     print(i)
@@ -74,5 +74,5 @@ ___
 - [x] Task 2
 - [ ] Task 3
 
-
+check for verif
 

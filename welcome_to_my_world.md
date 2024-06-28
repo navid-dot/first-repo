@@ -15,6 +15,7 @@
 ###### This is heading h6.
 
 ---
+# Italic and bold texts:
 *This is italic text.* 
 
 **This is bold text**
